@@ -1,5 +1,0 @@
-S -> A B | C D
-A -> x A | y
-B -> y B | x
-C -> a D | b
-D -> b C | a
